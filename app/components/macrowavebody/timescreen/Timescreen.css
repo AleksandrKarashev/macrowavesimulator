@@ -1,0 +1,13 @@
+#timescreen {
+   position: absolute;
+   top: 5em;
+   width: 14em;
+   height: 6em;
+   background-color: black;
+   text-align: center;
+}
+
+#timenumbers {
+   font-size: 2em;
+   color: red;
+}

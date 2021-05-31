@@ -1,0 +1,12 @@
+.buttons {
+   background-color: #FFFFF0;
+   border: 1px solid green;
+   cursor: pointer;
+   text-align: center;
+}
+
+#startpause, #defrost {
+   position: absolute;
+   bottom: .1em;
+   width: 6.5em;
+}

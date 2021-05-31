@@ -1,0 +1,10 @@
+.gridcontainer {
+   position: absolute;
+   height: 200px;
+   width: 200px;
+   top: 12em;
+   border: solid 2px red;
+   display: grid;
+   grid-template-columns: 4.6em 4.6em 4.6em;
+   grid-template-rows: 2.8em 2.8em 2.8em 2.8em;
+}

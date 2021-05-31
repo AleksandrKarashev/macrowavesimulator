@@ -1,0 +1,39 @@
+#macrowavebody {
+   position: relative;
+   width: 37em;
+   height: 28em;
+   margin: auto;
+   top: 3em;
+   border-width: 4em 26em 4em 4em;
+   border-color: #A9A9A9;
+   border-style: solid;
+   border-radius: 2%;
+}
+
+#macrowavescreen {
+   position: absolute;
+   left: -.5em;
+   width: 36em;
+   height: 27em;
+   border: 1em solid #211F1E;
+   border-radius: 2%;
+}
+
+#macrowavepainel {
+   position: absolute;
+   left: 45em;
+   width: 14em;
+   height: 27em;
+   border: 1em solid #211F1E;
+   border-radius: 2%;
+   background-color: #211F1E;
+}
+
+#macrowavehandle {
+   position: absolute;
+   left: 38.75em;
+   top: 5em;
+   width: 5em;
+   height: 20em;
+   background-color: #211F1E;
+}

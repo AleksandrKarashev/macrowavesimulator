@@ -10,15 +10,6 @@
    border-radius: 2%;
 }
 
-#macrowavescreen {
-   position: absolute;
-   left: -.5em;
-   width: 36em;
-   height: 27em;
-   border: 1em solid #211F1E;
-   border-radius: 2%;
-}
-
 #macrowavepainel {
    position: absolute;
    left: 45em;

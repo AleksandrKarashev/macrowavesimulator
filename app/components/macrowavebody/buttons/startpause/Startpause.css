@@ -1,0 +1,10 @@
+ #startpause {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+ }
+
+ #startpause p {
+    margin: 0;
+    font-size: x-small;
+ }

@@ -1,0 +1,31 @@
+#programms {
+   height: 2em;
+   width: 3em;
+   margin: 0;
+   background-color: #FFFFF0;
+   border: 1px solid #696969;
+   cursor: pointer;
+   text-align: center;
+}
+
+#programms span {
+   display: inline-block;
+   margin-top: 0.3em;
+}
+
+#programms .myprogramms {
+   display: none;
+}
+
+#programms:hover {
+   height: 5em;
+   width: 10em;
+}
+
+#programms:hover .myprogramms {
+   display: block;
+}
+
+#programms:hover .attention {
+   display: none;
+}

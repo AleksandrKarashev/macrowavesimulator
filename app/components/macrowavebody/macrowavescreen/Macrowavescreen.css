@@ -1,0 +1,12 @@
+#macrowavescreen {
+   position: absolute;
+   left: -.5em;
+   width: 36em;
+   height: 27em;
+   border: 1em solid #211F1E;
+   border-radius: 2%;
+}
+
+.activated {
+   box-shadow: inset 0 2em 5em 0 yellow;
+}

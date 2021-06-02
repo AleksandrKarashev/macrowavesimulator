@@ -1,0 +1,33 @@
+.buttons {
+   background-color: #FFFFF0;
+   border: 1px solid #696969;
+   cursor: pointer;
+   text-align: center;
+}
+
+#startpause, #cancel, #power, #defrost {
+   position: absolute;
+   height: 3.2em;
+   width: 6.5em;
+}
+
+#startpause, #cancel {
+   bottom: .1em;
+}
+
+#power, #defrost {
+   top: .5em;
+}
+
+#cancel, #power {
+   right: 0;
+}
+
+.buttons:hover {
+   background: #dcdcdc linear-gradient(#fff, #dcdcdc);
+   box-shadow: 0 0 0 1px #aaa inset, 0 1px 1px #aaa;
+}
+
+.buttons:active {
+   box-shadow: 0 0 0 1px #bbb inset, 0 1px 3px rgba(0, 0, 0, .5) inset, 0 1px 2px #fff;
+}

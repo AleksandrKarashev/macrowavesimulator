@@ -5,9 +5,16 @@
    height: 6em;
    background-color: black;
    text-align: center;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   color: red;
 }
 
 #timenumbers {
    font-size: 2em;
-   color: red;
+}
+
+#timenumbers, #status {
+   margin: 0;
 }
